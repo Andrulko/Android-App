@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Crowdin TODO</string>
     <string name="dashboard">Dashboard %s</string>
-    <string name="category">Category %d</string>
+    <string name="category">Categoria %d</string>
     <string name="history">History</string>
     <string name="add_task">Add Task</string>
     <string name="action_done">Done</string>
