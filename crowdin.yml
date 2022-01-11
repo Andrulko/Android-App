@@ -1,3 +1,0 @@
-files:
-  - source: /**/values/*.xml
-    translation: /**/values-%two_letters_code%/strings.xml
