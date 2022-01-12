@@ -47,4 +47,5 @@
     <string name="app_language">Current language</string>
     <string name="menu_info">Info</string>
     <string name="another">Final test</string>
+    <string name="REQUEST DEMO">REQUEST DEMO</string>
 </resources>
