@@ -47,4 +47,8 @@
     <string name="app_language">Current language</string>
     <string name="menu_info">Infos</string>
     <string name="another">Final test</string>
+    <string name="chat.title" comment="chats.title">Chat</string>
+    <string name="register_btn" comment="This is a button on log out screen" maxLength="15">Inscription</string>
+    <string name="figma_basics.discover.whats_new_today" comment="whats_new_today">What’s new today</string>
+    <string name="figma_basics.discover.discover" comment="discover">Discover</string>
 </resources>
