@@ -2,53 +2,54 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Crowdin TODO</string>
     <string name="dashboard">Dashboard %s</string>
-    <string name="category">Category %d</string>
-    <string name="history">History</string>
-    <string name="add_task">Add Task</string>
-    <string name="action_done">Done</string>
-    <string name="task_title">Task Title</string>
-    <string name="enter_task_title">Enter task title</string>
-    <string name="what_is_to_be_done">What is to be done?</string>
-    <string name="enter_your_task">Enter your task</string>
-    <string name="set_date_and_time">Set reminder date and time</string>
-    <string name="add_to_category">Add to category</string>
-    <string name="set_date">Set Date</string>
-    <string name="set_time">Set Time</string>
-    <string name="add_category">Add Category</string>
-    <string name="enter_category">Enter category</string>
-    <string name="update_category">Update Category</string>
-    <string name="please_add_task">Please add task</string>
-    <string name="please_add_title">Please add title</string>
-    <string name="add">ADD</string>
-    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
-    <string name="please_enter_category_to_add">Please enter category to add</string>
+    <string name="category">Kategorie %d</string>
+    <string name="history">Protokoll</string>
+    <string name="add_task">Task hinzufügen</string>
+    <string name="action_done">Fertig</string>
+    <string name="task_title">Tasktitel</string>
+    <string name="enter_task_title">Tasktitel eingeben</string>
+    <string name="what_is_to_be_done">Was ist zu tun?</string>
+    <string name="enter_your_task">Geben Sie Ihre Aufgabe ein</string>
+    <string name="set_date_and_time">Erinnerungsdatum und -zeit festlegen</string>
+    <string name="add_to_category">Zur Kategorie hinzufügen</string>
+    <string name="set_date">Datum festlegen</string>
+    <string name="set_time">Zeit festlegen</string>
+    <string name="add_category">Kategorie hinzufügen</string>
+    <string name="enter_category">Kategorie eingeben</string>
+    <string name="update_category">Kategorie aktualisieren</string>
+    <string name="please_add_task">Task hinzufügen</string>
+    <string name="please_add_title">Titel hinzufügen</string>
+    <string name="add">HINZUFÜGEN</string>
+    <string name="cancel" tools:ignore="ButtonCase">ABBRECHEN</string>
+    <string name="please_enter_category_to_add">Bitte geben Sie die Kategorie ein</string>
     <string name="update">UPDATE</string>
-    <string name="please_edit_category_to_update">Please edit category to update</string>
-    <string name="delete">DELETE</string>
-    <string name="please_enter_something_to_update">Please enter something to update</string>
-    <string name="no_category_to_display">No category to display</string>
-    <string name="no_task_to_show">No task to show</string>
-    <string name="no_history_to_show">No History to show</string>
-    <string name="do_you_want_to_save_this_task">Do you want to save this task?</string>
-    <string name="save_task">Save task!</string>
+    <string name="please_edit_category_to_update">Zu aktualisierende Kategorie bearbeiten</string>
+    <string name="delete">LÖSCHEN</string>
+    <string name="please_enter_something_to_update">Geben Sie etwas zum Aktualisieren ein.</string>
+    <string name="no_category_to_display">Keine Kategorie zum Anzeigen</string>
+    <string name="no_task_to_show">Keine Aufgabe zu zeigen</string>
+    <string name="no_history_to_show">Keine Historie zum Anzeigen</string>
+    <string name="do_you_want_to_save_this_task">Möchten Sie diese Task speichern?</string>
+    <string name="save_task">Task speichern!</string>
     <string name="save">SAVE</string>
-    <string name="nav_header_title">Crowdin SDK Example project</string>
+    <string name="nav_header_title">Crowdin-SDK-Beispielprojekt</string>
     <string name="nav_header_sub_title"><a href="https://github.com/crowdin/mobile-sdk-android">Repository: mobile-sdk-android</a></string>
     <string name="date">Datum</string>
-    <string name="task">Task</string>
-    <string name="time">Time</string>
+    <string name="task">Aufgabe</string>
+    <string name="time">Zeit</string>
     <string name="title">Titel</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="no_category_to_added">No category added</string>
-    <string name="dialog_delete_category_title">Delete Category</string>
-    <string name="dialog_delete_category_desc">Do you want to delete this category?</string>
+    <string name="navigation_drawer_open">Navigationsschublade öffnen</string>
+    <string name="navigation_drawer_close">Navigationsschublade schließen</string>
+    <string name="no_category_to_added">Keine Kategorie hinzugefügt</string>
+    <string name="dialog_delete_category_title">Kategorie löschen</string>
+    <string name="dialog_delete_category_desc">Möchten Sie diese Kategorie löschen?</string>
     <string name="settings">Einstellungen</string>
-    <string name="app_language">Current language</string>
+    <string name="app_language">Aktuelle Sprache</string>
     <string name="menu_info">Info</string>
-    <string name="another">Final test</string>
+    <string name="another">Endtest</string>
     <string name="chat.title" comment="chats.title">Chat</string>
     <string name="register_btn" comment="This is a button on log out screen" maxLength="15">Registrieren</string>
-    <string name="figma_basics.discover.whats_new_today" comment="whats_new_today">What’s new today</string>
-    <string name="figma_basics.discover.discover" comment="discover">Discover</string>
+    <string name="figma_basics.discover.whats_new_today" comment="whats_new_today">Was heute neu ist</string>
+    <string name="figma_basics.discover.discover" comment="discover">Erkennen</string>
+    <string name="figma_basics.logged_out.04_20_2022" comment="04_20_2022">20th of April 2022</string>
 </resources>
