@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="naqwert">Qwerty</string>
+    <string name="naqwert">Azerty</string>
     <string name="app_name">Crowdin TODO</string>
     <string name="dashboard">Dashboard %s</string>
     <string name="category">Category %d</string>
