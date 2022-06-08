@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="naqwert">Qwerty</string>
     <string name="history">Historique</string>
     <string name="action_done">Terminé</string>
     <string name="add_category">Ajouter catégorie</string>
@@ -9,5 +10,6 @@
     <string name="title">Titre</string>
     <string name="settings">Paramètres</string>
     <string name="menu_info">Infos</string>
+    <string name="another">Tests finaux</string>
     <string name="register_btn" comment="This is a button on log out screen" maxLength="15">Inscription</string>
 </resources>
