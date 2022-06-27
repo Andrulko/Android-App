@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="naqwert">Qwerty</string>
     <string name="app_name">Crowdin TODO</string>
-    <string name="dashboard">Dashboard %s</string>
+    <string name="dashboard">Tableau de bord %s</string>
     <string name="category">Category %d</string>
     <string name="history">Historique</string>
-    <string name="add_task">Add Task</string>
+    <string name="add_task">Ajouter une tâche</string>
     <string name="action_done">Terminé</string>
     <string name="task_title">Task Title</string>
     <string name="enter_task_title">Enter task title</string>
@@ -16,7 +17,7 @@
     <string name="set_time">Set Time</string>
     <string name="add_category">Ajouter catégorie</string>
     <string name="enter_category">Enter category</string>
-    <string name="update_category">Update Category</string>
+    <string name="update_category">Mettre à jour catégorie</string>
     <string name="please_add_task">Please add task</string>
     <string name="please_add_title">Please add title</string>
     <string name="add">ADD</string>
@@ -46,7 +47,7 @@
     <string name="settings">Paramètres</string>
     <string name="app_language">Current language</string>
     <string name="menu_info">Infos</string>
-    <string name="another">Final test</string>
+    <string name="another">Tests finaux</string>
     <string name="chat.title" comment="chats.title">Chat</string>
     <string name="register_btn" comment="This is a button on log out screen" maxLength="15">Inscription</string>
     <string name="figma_basics.discover.whats_new_today" comment="whats_new_today">What’s new today</string>
