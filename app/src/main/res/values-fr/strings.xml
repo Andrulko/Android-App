@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="naqwert">Qwerty</string>
     <string name="app_name">Crowdin TODO</string>
-    <string name="dashboard">Dashboard %s</string>
+    <string name="dashboard">Tableau de bord %s</string>
     <string name="category">Category %d</string>
     <string name="history">Historique</string>
     <string name="add_task">Ajouter une tâche</string>
