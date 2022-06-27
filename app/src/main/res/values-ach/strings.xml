@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="naqwert">crwdns635805:0crwdne635805:0</string>
+    <string name="app_name">crwdns635807:0crwdne635807:0</string>
+    <string name="dashboard">crwdns635809:0%scrwdne635809:0</string>
+    <string name="category">crwdns635811:0%dcrwdne635811:0</string>
+    <string name="history">crwdns635813:0crwdne635813:0</string>
+    <string name="add_task">crwdns635815:0crwdne635815:0</string>
+    <string name="action_done">crwdns635817:0crwdne635817:0</string>
+    <string name="task_title">crwdns635819:0crwdne635819:0</string>
+    <string name="enter_task_title">crwdns635821:0crwdne635821:0</string>
+    <string name="what_is_to_be_done">crwdns635823:0crwdne635823:0</string>
+    <string name="enter_your_task">crwdns635825:0crwdne635825:0</string>
+    <string name="set_date_and_time">crwdns635827:0crwdne635827:0</string>
+    <string name="add_to_category">crwdns635829:0crwdne635829:0</string>
+    <string name="set_date">crwdns635831:0crwdne635831:0</string>
+    <string name="set_time">crwdns635833:0crwdne635833:0</string>
+    <string name="add_category">crwdns635835:0crwdne635835:0</string>
+    <string name="enter_category">crwdns635837:0crwdne635837:0</string>
+    <string name="update_category">crwdns635839:0crwdne635839:0</string>
+    <string name="please_add_task">crwdns635841:0crwdne635841:0</string>
+    <string name="please_add_title">crwdns635843:0crwdne635843:0</string>
+    <string name="add">crwdns635845:0crwdne635845:0</string>
+    <string name="cancel" tools:ignore="ButtonCase">crwdns635847:0crwdne635847:0</string>
+    <string name="please_enter_category_to_add">crwdns635849:0crwdne635849:0</string>
+    <string name="update">crwdns635851:0crwdne635851:0</string>
+    <string name="please_edit_category_to_update">crwdns635853:0crwdne635853:0</string>
+    <string name="delete">crwdns635855:0crwdne635855:0</string>
+    <string name="please_enter_something_to_update">crwdns635857:0crwdne635857:0</string>
+    <string name="no_category_to_display">crwdns635859:0crwdne635859:0</string>
+    <string name="no_task_to_show">crwdns635861:0crwdne635861:0</string>
+    <string name="no_history_to_show">crwdns635863:0crwdne635863:0</string>
+    <string name="do_you_want_to_save_this_task">crwdns635865:0crwdne635865:0</string>
+    <string name="save_task">crwdns635867:0crwdne635867:0</string>
+    <string name="save">crwdns635869:0crwdne635869:0</string>
+    <string name="nav_header_title">crwdns635871:0crwdne635871:0</string>
+    <string name="nav_header_sub_title">crwdns635873:0crwdne635873:0</string>
+    <string name="date">crwdns635875:0crwdne635875:0</string>
+    <string name="task">crwdns635877:0crwdne635877:0</string>
+    <string name="time">crwdns635879:0crwdne635879:0</string>
+    <string name="title">crwdns635881:0crwdne635881:0</string>
+    <string name="navigation_drawer_open">crwdns635883:0crwdne635883:0</string>
+    <string name="navigation_drawer_close">crwdns635885:0crwdne635885:0</string>
+    <string name="no_category_to_added">crwdns635887:0crwdne635887:0</string>
+    <string name="dialog_delete_category_title">crwdns635889:0crwdne635889:0</string>
+    <string name="dialog_delete_category_desc">crwdns635891:0crwdne635891:0</string>
+    <string name="settings">crwdns635893:0crwdne635893:0</string>
+    <string name="app_language">crwdns635895:0crwdne635895:0</string>
+    <string name="menu_info">crwdns635897:0crwdne635897:0</string>
+    <string name="another">crwdns635899:0crwdne635899:0</string>
+    <string name="chat.title" comment="chats.title">crwdns635901:0crwdne635901:0</string>
+    <string name="register_btn" comment="This is a button on log out screen" maxLength="15">crwdns635903:0crwdne635903:0</string>
+    <string name="figma_basics.discover.whats_new_today" comment="whats_new_today">crwdns635905:0crwdne635905:0</string>
+    <string name="figma_basics.discover.discover" comment="discover">crwdns635907:0crwdne635907:0</string>
+</resources>
