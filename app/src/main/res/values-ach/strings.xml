@@ -52,4 +52,5 @@
     <string name="register_btn" comment="This is a button on log out screen" maxLength="15">crwdns636007:0crwdne636007:0</string>
     <string name="figma_basics.discover.whats_new_today" comment="whats_new_today">crwdns636009:0crwdne636009:0</string>
     <string name="figma_basics.discover.discover" comment="discover">crwdns636011:0crwdne636011:0</string>
+    <string name="mouse-is-device">crwdns811141:0crwdne811141:0</string>
 </resources>
